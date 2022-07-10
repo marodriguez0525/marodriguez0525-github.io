@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/marodriguez0525-github.io/static/css/main.168984a8.chunk.css",
+    "main.js": "/marodriguez0525-github.io/static/js/main.4131a981.chunk.js",
+    "main.js.map": "/marodriguez0525-github.io/static/js/main.4131a981.chunk.js.map",
+    "runtime-main.js": "/marodriguez0525-github.io/static/js/runtime-main.4323f638.js",
+    "runtime-main.js.map": "/marodriguez0525-github.io/static/js/runtime-main.4323f638.js.map",
+    "static/css/2.3a787520.chunk.css": "/marodriguez0525-github.io/static/css/2.3a787520.chunk.css",
+    "static/js/2.1877a2c4.chunk.js": "/marodriguez0525-github.io/static/js/2.1877a2c4.chunk.js",
+    "static/js/2.1877a2c4.chunk.js.map": "/marodriguez0525-github.io/static/js/2.1877a2c4.chunk.js.map",
+    "static/js/3.4a259e61.chunk.js": "/marodriguez0525-github.io/static/js/3.4a259e61.chunk.js",
+    "static/js/3.4a259e61.chunk.js.map": "/marodriguez0525-github.io/static/js/3.4a259e61.chunk.js.map",
+    "index.html": "/marodriguez0525-github.io/index.html",
+    "static/css/2.3a787520.chunk.css.map": "/marodriguez0525-github.io/static/css/2.3a787520.chunk.css.map",
+    "static/css/main.168984a8.chunk.css.map": "/marodriguez0525-github.io/static/css/main.168984a8.chunk.css.map",
+    "static/js/2.1877a2c4.chunk.js.LICENSE.txt": "/marodriguez0525-github.io/static/js/2.1877a2c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4323f638.js",
+    "static/css/2.3a787520.chunk.css",
+    "static/js/2.1877a2c4.chunk.js",
+    "static/css/main.168984a8.chunk.css",
+    "static/js/main.4131a981.chunk.js"
+  ]
+}
